@@ -5,6 +5,6 @@ I want to create a website to optimize reforestation by using soil image classif
 
 ### RESOURCE:
 > Flask
-> Jinja
-> keras
-> tensorflow
+1. Jinja
+2. keras
+3. tensorflow
